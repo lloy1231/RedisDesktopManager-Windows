@@ -2,6 +2,8 @@
 
 因为作者在 0.9.4 之后选择对所有的安装包收费，不再提供安装包下载，但是源码依旧公开，于是本人选择了自己编译的 Windows 版本的道路，同时无偿提供给大家。
 
+下载地址：[release](https://github.com/necan/RedisDesktopManager-Windows/releases)
+
 ## 编译过程
 
 网络上 关于 Redis Desktop Manager 的编译教程都是 Linux 下的，没有任何参考价值。而官方文档提供的步骤过于简洁，以至于根本无法操作。本人摸索了几个小时，终于完整编译并打包。具体操作如下：
